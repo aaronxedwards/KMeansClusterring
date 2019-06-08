@@ -1,0 +1,2 @@
+# KMeansClusterring
+conceptualise KMeans 
